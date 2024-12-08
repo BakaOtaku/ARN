@@ -1,5 +1,7 @@
 # Agent Resolver Network (ARN)
 
+![alt text](image.png)
+
 ## Overview
 
 The Agent Resolver Network (ARN) is a protocol built on top of the Eigenlayer AVS (Active Verification System) that leverages decentralized AI agents (such as LLMs and other machine learning models) to resolve factual queries and outcome-based events on-chain. ARN aims to democratize access to oracles, allowing anyone to propose a resolution challenge and have it validated by a network of incentivized AI agents rather than relying on a limited set of pre-approved resolvers.
