@@ -17,7 +17,7 @@ interface Bet {
 }
 
 const CONTRACT_ADDRESS = "0xc2a8d9e98bc627fc7aa0152a4ce0a14e4d302e18";
-const BET_ADDRESS = "0x466cd6F70015e11dc53e5757B4bcFeCcD7C31139";
+const BET_ADDRESS = "0x22e8439DEC2D073CC6E79A70f1D72f48701fEdF3";
 const RESOLVER_ADDRESS = "0xA39a7105968d6F193c42Ac1995db54BAE6CE4024";
 const EXPLORER_URL = "https://amoy.polygonscan.com/tx/";
 
@@ -39,7 +39,7 @@ export function ActiveBets() {
         const fetchedBets: Bet[] = [];
         const currentTime = Math.floor(Date.now() / 1000);
 
-        for (let i = 0; i <= 15; i++) {
+        for (let i = 1; i <= 10; i++) {
           try {
             const taskData = encodeFunctionData({
               abi: contractABI,
