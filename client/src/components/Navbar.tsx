@@ -11,7 +11,7 @@ export function Navbar() {
           {/* Logo/Brand - Left side */}
           <div className="flex-shrink-0">
             <Link to="/" className="text-xl font-bold text-white">
-              Autonomous Resolver Protocol
+              Agent Resolver Protocol
             </Link>
           </div>
 

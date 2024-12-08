@@ -1,10 +1,10 @@
 import { CloudLightning } from "lucide-react";
 
 const EIGEN_ADDRESSES = {
-  proxyAdmin: "0xabb7b69189744d26e1105beeb95ae64b8b00c3de",
-  delegation: "0x55a9b588f83978480f99e884ba81a724a88a3ac0",
-  avsDirectory: "0x6660d56c82841fb4b7f9908fff2af06498c7b215",
-  strategyManager: "0x4d7b24d39f34d1bc333ee73f5e9c4a256997eb29",
+  proxyAdmin: "0x210281c8e0d9c2bc8530c86bc7f73541e6ee961e",
+  delegation: "0x5e2a3f281b04d241de3aecb1a1b4f2a3d14100c0",
+  avsDirectory: "0x70645e268e8653b00140fb38adac3a0151dd4f6e",
+  strategyManager: "0xc1d190f012eedf4a3b2dd98a6d9e952b45f78a09",
 };
 
 const OUR_ADDRESSES = {

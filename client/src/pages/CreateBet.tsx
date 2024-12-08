@@ -6,8 +6,8 @@ import contractABI from "./av.json";
 import { Hex } from "viem";
 
 // Contract address
-const CONTRACT_ADDRESS = "0x4f698fcdaf7bbfa2d833756107530d44230f41c5";
-const EXPLORER_URL = "https://holesky.etherscan.io/tx/";
+const CONTRACT_ADDRESS = "0xc2a8d9e98bc627fc7aa0152a4ce0a14e4d302e18";
+const EXPLORER_URL = "https://amoy.polygonscan.com/tx/";
 
 export function CreateBet() {
   const [videoUrl, setVideoUrl] = useState("");

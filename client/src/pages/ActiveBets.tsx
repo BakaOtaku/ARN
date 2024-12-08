@@ -16,10 +16,10 @@ interface Bet {
   resolutionResult?: boolean;
 }
 
-const CONTRACT_ADDRESS = "0x4f698fcdaf7bbfa2d833756107530d44230f41c5";
+const CONTRACT_ADDRESS = "0xc2a8d9e98bc627fc7aa0152a4ce0a14e4d302e18";
 const BET_ADDRESS = "0x466cd6F70015e11dc53e5757B4bcFeCcD7C31139";
 const RESOLVER_ADDRESS = "0xA39a7105968d6F193c42Ac1995db54BAE6CE4024";
-const EXPLORER_URL = "https://holesky.etherscan.io/tx/";
+const EXPLORER_URL = "https://amoy.polygonscan.com/tx/";
 
 export function ActiveBets() {
   const [bets, setBets] = useState<Bet[]>([]);
