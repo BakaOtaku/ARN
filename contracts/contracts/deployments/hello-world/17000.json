@@ -1,0 +1,15 @@
+{
+    "lastUpdate": {
+        "timestamp": "1733620680",
+        "block_number": "2892814"
+    },
+    "addresses": {
+        "proxyAdmin": "0x548ddb33fcf3a2779b42877de7587774ce3d6832",
+        "helloWorldServiceManager": "0x4f698fcdaf7bbfa2d833756107530d44230f41c5",
+        "helloWorldServiceManagerImpl": "0x5b22ae3fb5bec4a71a44d55372d7208ae0bec925",
+        "stakeRegistry": "0x4042fa828935cb0c5f8976837d0e29468093bb03",
+        "stakeRegistryImpl": "0xd5bb7d5a53bd81dce6944da4a52ba5678489317e",
+        "strategy": "0x56b6d9127bf2394ec31d4b5a357b57a1823e8879",
+        "token": "0xc7f2cf4845c6db0e1a1e91ed41bcd0fcc1b0e141"
+    }
+}
